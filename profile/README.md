@@ -15,5 +15,5 @@ We build AI agents, automation, and custom software that help businesses save ti
 TypeScript • React • Node.js • LLM APIs • AWS  • PostgreSQL • Docker
 
 ## Work with us
-🌐 [duriomind.com](https://duriomind.com)
-📧 [duriomind@gmail.com]
+🌐 [duriomind.com](https://duriomind.in)
+📧 duriomind@gmail.com
