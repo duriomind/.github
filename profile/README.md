@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Hi, we're Duriomind 👋
 
 **Durable intelligence for your business.**
@@ -12,9 +12,8 @@ We build AI agents, automation, and custom software that help businesses save ti
 - 🔗 API and tool integrations
 
 ## Tech we work with
-Python • JavaScript/TypeScript • React • Node.js • LLM APIs • n8n • PostgreSQL • Docker
+TypeScript • React • Node.js • LLM APIs • AWS  • PostgreSQL • Docker
 
 ## Work with us
 🌐 [duriomind.com](https://duriomind.com)
-📧 [your email]
-💼 [LinkedIn link]
+📧 [duriomind@gmail.com]
